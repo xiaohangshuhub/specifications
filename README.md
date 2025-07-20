@@ -1,2 +1,2 @@
 # specifications
-爱航-开发规范
+小航书-开发规范
